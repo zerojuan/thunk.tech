@@ -1,0 +1,20 @@
+{
+  "name": "thunktech-website",
+  "version": "1.0.0",
+  "description": "Website of thunk.tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerojuan/thunk.tech.git"
+  },
+  "author": "Julius Cebreros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerojuan/thunk.tech/issues"
+  },
+  "homepage": "https://github.com/zerojuan/thunk.tech#readme"
+}
